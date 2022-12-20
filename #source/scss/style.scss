@@ -32,6 +32,8 @@ body{
 	& a{
 		padding: 8px 60px;
 	}
+	border: 1px solid #828282;
+	transform: matrix(1,0,0,1,0,0);
 	}
 
 .header ul{
@@ -42,6 +44,7 @@ body{
 	margin: 0;
 	padding: 0;
 	list-style: none;
+
 
 }
 
