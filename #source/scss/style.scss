@@ -25,6 +25,7 @@ body{
 	align-items: center;
 	& li{
 		margin: 33px 20px 60px 0px;
+		font-size: 500px;
 		&:last-child{
 			margin: 33px 0px 60px 0px;
 		}
@@ -39,8 +40,6 @@ body{
 .header ul{
 	display: flex;
 	flex-flow:row nowrap;
-	font-family: 'Gilroy-Bold';
-	font-size: 18px;
 	margin: 0;
 	padding: 0;
 	list-style: none;
